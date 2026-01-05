@@ -1,3 +1,3 @@
 # Блог на Astro
 
-[Итоговый сайт](#) на Netlify.
+[Итоговый сайт](https://astro-blog-netlify.netlify.app) на Netlify.
